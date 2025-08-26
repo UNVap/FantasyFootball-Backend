@@ -1,7 +1,4 @@
-git remote add origin https://github.com/UNVap/Fantasy-Vault.git
-git branch -M main
-git push -u origin main
-gunicorn
+
 ubuntu@sandbox:~ $ cd /home/ubuntu && zip -r /home/ubuntu/fantasyvault-backend.zip /home/ubuntu/fantasyvault-backend -x "*/venv/*"
 [previous content truncated]...47c56d80d08c (stored 0%)
   adding: home/ubuntu/fantasyvault-backend/.git/objects/d6/2390bb8457d63da4eb3e02fff96bc1e499001b (stored 0%)
